@@ -1,0 +1,58 @@
+body	{	font-family:Verdana,sans-serif; }
+.typebox  {width: 400px;}
+
+.tblbusca {
+	text-align:center;
+	vertical-align:top;
+	background-color:#675cbb;
+	}
+.campobusca {
+	padding:6px;
+	padding-left: 100px;
+	text-align:left;
+	vertical-align:top;
+	background-color:#675cbb;
+	color:#ffffff;
+	font-size:14px;
+	}
+.hint {
+	color:#ffffff;
+	font-size:10px;
+	}
+.subtitles {
+	width: 680px;
+	text-align:justify;
+	color:#675cbb;
+	font-size:12px;
+	font-weight:bold;
+	margin-left:-30px;
+	}
+.titles {
+	color:#675cbb;
+	font-size:12px;
+	font-weight:bold;
+	}
+.titlestrap {
+	color:#675cbb;
+	text-align:center;
+	font-size:12px;
+	font-weight:bold;
+	}
+.tel1 {
+	margin-top:2px;
+	color:#009900;
+	font-size:18px;
+	font-weight:bold;
+	}
+.tel2 {
+	margin-top:8px;
+	color:#009900;
+	font-size:14px;
+	font-weight:bold;
+	}
+.tel3 {
+	margin-top:5px;
+	color:#000000;
+	font-size:12px;
+	font-weight:bold;
+	}
